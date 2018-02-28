@@ -27,7 +27,7 @@
  + taux de consommation des proies par les prédateurs
  + taux de renouvellement de la nourriture des proies
 
-### Si ajout de spacialisation :
+### Si ajout de spatialisation :
  + efficacité de recherche de nourriture des proies
  + efficacité de recherche de nourriture des prédateurs
  
@@ -55,9 +55,9 @@
       * si un prédateur ne rencontre pas de proie, il meurt
       * si deux prédateurs coexistent elles créent potentiellement un autre prédateur
 
- + Idée n°3 : une spacialisation des agents
+ + Idée n°3 : une spatialisation des agents
       
-      ⋅⋅⋅ Cela permet d'avoir une représentation plus fidèle de la réalité par la suite, i.e. le rendu final sera probablement plus lisible et compréhensible. Cela implique cependant l'ajout de nouveaux paramètres.
+      ⋅⋅⋅Cela permet d'avoir une représentation plus fidèle de la réalité par la suite, i.e. le rendu final sera probablement plus lisible et compréhensible. Cela implique cependant l'ajout de nouveaux paramètres.
  
  + Idée n°4 : Ø
  
