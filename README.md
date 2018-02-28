@@ -1,5 +1,4 @@
-# lapin-renard-carotte
-
+# Modèle proie/prédateur - Renards Lapins Carottes
 
 BEAUREPAIRE Louis
 DELATTE Thomas
