@@ -91,5 +91,11 @@
     * Travail de recherche de données caractéristiques des différents agents (alimentation, reproduction, déplacement, longévité)
     * Mise en page sur github
     
+ + BEAUREPAIRE Louis, DELATTE Thomas - 28/02
+    
+    * analyse approfondie du sujet
+    * ébauche du modèle
+    * mise en pseudo-code de la boucle principale
+    
     
   
