@@ -47,13 +47,13 @@
 
  + Idée n°2 : à chaque instant t toutes les interactions suivantes sont effectuées (le nombre de fois est dépendant des paramètres)
  
-      ⋅⋅* si une proie n'est pas nourrie, elle meurt
-      ·⋅* si une proie mange, une unité de nourriture disparait
-      ·⋅* chaque unité de nourriture produit potentiellement une autre unité de nourriture
-      ·⋅* si deux proies coexistent elles créent potentiellement une autre proie
-      ·⋅* si un prédateur rencontre une proie, la proie meurt
-      ·⋅* si un prédateur ne rencontre pas de proie, il meurt
-      ·⋅* si deux prédateurs coexistent elles créent potentiellement un autre prédateur
+      * si une proie n'est pas nourrie, elle meurt
+      * si une proie mange, une unité de nourriture disparait
+      * chaque unité de nourriture produit potentiellement une autre unité de nourriture
+      * si deux proies coexistent elles créent potentiellement une autre proie
+      * si un prédateur rencontre une proie, la proie meurt
+      * si un prédateur ne rencontre pas de proie, il meurt
+      * si deux prédateurs coexistent elles créent potentiellement un autre prédateur
 
  + Idée n°3 : une spacialisation des agents
       
