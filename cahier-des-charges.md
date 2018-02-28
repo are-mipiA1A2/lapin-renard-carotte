@@ -43,7 +43,7 @@
 ### Premières idées de modélisation :
  + Idée n°1 : chaque agent a sa propre horloge interne et doit, à intervalles de temps réglés par nos paramètres, produire certaines interactions.
  
- ⋅⋅⋅ Cela permet d'avoir des comportements en apparence autonome obéissants aux mêmes lois. On empêche alors des effets de vague pouvant être causés par une mise en route aléatoire. Cependant l'initialisation des horloges internes doit être effectuée de manière à éviter des effets de vagues à répétition. De plus cela supprime toute potentialité de vagues, ce qui peut arriver dans la nature.
+⋅⋅⋅ Cela permet d'avoir des comportements en apparence autonome obéissants aux mêmes lois. On empêche alors des effets de vague pouvant être causés par une mise en route aléatoire. Cependant l'initialisation des horloges internes doit être effectuée de manière à éviter des effets de vagues à répétition. De plus cela supprime toute potentialité de vagues, ce qui peut arriver dans la nature.
 
  + Idée n°2 : à chaque instant t toutes les interactions suivantes sont effectuées (le nombre de fois est dépendant des paramètres)
  
