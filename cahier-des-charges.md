@@ -75,13 +75,13 @@
 
  + [NOM Prénom] - [JJ/MM] (si période [JJ/MM -> JJ/MM]) : [résumé en quelques mots]
  
-        ⋅⋅* [Résumé plus approfondi]
+    ⋅⋅* [Résumé plus approfondi]
         
  + Groupe - 27/02 : réunion de coordination
  
-        ⋅⋅* Détermination des différents rôles
-        ⋅⋅* Répartition des différentes tâches pour chacun dans la semaine à suivre
+   * Détermination des différents rôles
+   * Répartition des différentes tâches pour chacun dans la semaine à suivre
         
  + BEAUREPAIRE Louis - 27/02
  
-        ⋅⋅* Mise en page et écriture du cahier des charges
+    * Mise en page et écriture du cahier des charges
