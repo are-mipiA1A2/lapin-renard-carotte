@@ -75,7 +75,7 @@
 
  + [NOM Prénom] - [JJ/MM] (si période [JJ/MM -> JJ/MM]) : [résumé en quelques mots]
  
-    ⋅⋅* [Résumé plus approfondi]
+   * [Résumé plus approfondi]
         
  + Groupe - 27/02 : réunion de coordination
  
