@@ -2,6 +2,7 @@
 
 
 ### Membres du groupe :
+
  + BEAUREPAIRE Louis
  + DELATTE Thomas
  + GHAZI Virgile
@@ -9,12 +10,15 @@
  
  
 ### Questions importantes autour du sujet :
+
  + Peut-on atteindre un état de stabilité entre les quantités de proies et de prédateurs ?
  + Peut-on modéliser efficacement les interactions entre les proies et les prédateurs et obtenir un modèle ressemblant à la réalité ?
   
   
 ### Phénomène principal étudié : interaction entre proies et prédateurs / évolution de leurs populations respectives.
-Paramètres principaux entrant en jeu :
+
+⋅⋅⋅ Paramètres principaux entrant en jeu :
+
  + durée de vie des proies
  + durée de vie des prédateurs
  + taux de reproduction des proies
@@ -29,6 +33,7 @@ Paramètres principaux entrant en jeu :
  
  
 ### Méthodes de validation :
+
  + modèle proie/prédateurs pré-existants par comparaison
  + données de reproduction des lapins en Australie
  + vérification par comparaison avec le modèle Volterra/Lotka
@@ -41,6 +46,7 @@ Paramètres principaux entrant en jeu :
       ⋅⋅⋅ Cela permet d'avoir des comportements en apparence autonome obéissants aux mêmes lois. On empêche alors des effets de vague pouvant être causés par une mise en route aléatoire. Cependant l'initialisation des horloges internes doit être effectuée de manière à éviter des effets de vagues à répétition. De plus cela supprime toute potentialité de vagues, ce qui peut arriver dans la nature.
 
  + Idée n°2 : à chaque instant t toutes les interactions suivantes sont effectuées (le nombre de fois est dépendant des paramètres)
+ 
       ⋅⋅+ si une proie n'est pas nourrie, elle meurt
       ·⋅+ si une proie mange, une unité de nourriture disparait
       ·⋅+ chaque unité de nourriture produit potentiellement une autre unité de nourriture
@@ -57,6 +63,7 @@ Paramètres principaux entrant en jeu :
  
  
 ### Taches et répartitions :
+
  + BEAUREPAIRE Louis : chef de projet - mise en code primaire
  + DELATTE Thomas : mise en code primaire - analyse secondaire
  + GHAZI Virgile : exploitation de l'idée - mise en code secondaire
@@ -65,12 +72,16 @@ Paramètres principaux entrant en jeu :
 
 
 ### Cahier de suivi : chacun inscrit les taches effectuées en suivant le modèle suivant
+
  + [NOM Prénom] - [JJ/MM] (si période [JJ/MM -> JJ/MM]) : [résumé en quelques mots]
+ 
         ⋅⋅+ [Résumé plus approfondi]
         
  + Groupe - 27/02 : réunion de coordination
+ 
         ⋅⋅+ Détermination des différents rôles
         ⋅⋅+ Répartition des différentes tâches pour chacun dans la semaine à suivre
         
  + BEAUREPAIRE Louis - 27/02
+ 
         ⋅⋅+ Mise en page et écriture du cahier des charges
