@@ -17,7 +17,7 @@
   
 ### Phénomène principal étudié : interaction entre proies et prédateurs / évolution de leurs populations respectives.
 
-⋅⋅⋅ Paramètres principaux entrant en jeu :
+⋅⋅⋅Paramètres principaux entrant en jeu :
 
  + durée de vie des proies
  + durée de vie des prédateurs
