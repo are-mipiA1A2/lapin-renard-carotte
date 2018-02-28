@@ -86,7 +86,7 @@
  
     * Mise en page et écriture du cahier des charges
  
- + PRAT Adélie, GHAZI Virgilou - 28/02
+ + PRAT Adélie, GHAZI Virgile - 28/02
  
     * Travail de recherche de données caractéristiques des différents agents (alimentation, reproduction, déplacement, longévité)
     * Mise en page sur github
