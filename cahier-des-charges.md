@@ -47,13 +47,13 @@
 
  + Idée n°2 : à chaque instant t toutes les interactions suivantes sont effectuées (le nombre de fois est dépendant des paramètres)
  
-      ⋅⋅+ si une proie n'est pas nourrie, elle meurt
-      ·⋅+ si une proie mange, une unité de nourriture disparait
-      ·⋅+ chaque unité de nourriture produit potentiellement une autre unité de nourriture
-      ·⋅+ si deux proies coexistent elles créent potentiellement une autre proie
-      ·⋅+ si un prédateur rencontre une proie, la proie meurt
-      ·⋅+ si un prédateur ne rencontre pas de proie, il meurt
-      ·⋅+ si deux prédateurs coexistent elles créent potentiellement un autre prédateur
+      ⋅⋅* si une proie n'est pas nourrie, elle meurt
+      ·⋅* si une proie mange, une unité de nourriture disparait
+      ·⋅* chaque unité de nourriture produit potentiellement une autre unité de nourriture
+      ·⋅* si deux proies coexistent elles créent potentiellement une autre proie
+      ·⋅* si un prédateur rencontre une proie, la proie meurt
+      ·⋅* si un prédateur ne rencontre pas de proie, il meurt
+      ·⋅* si deux prédateurs coexistent elles créent potentiellement un autre prédateur
 
  + Idée n°3 : une spacialisation des agents
       
@@ -75,13 +75,13 @@
 
  + [NOM Prénom] - [JJ/MM] (si période [JJ/MM -> JJ/MM]) : [résumé en quelques mots]
  
-        ⋅⋅+ [Résumé plus approfondi]
+        ⋅⋅* [Résumé plus approfondi]
         
  + Groupe - 27/02 : réunion de coordination
  
-        ⋅⋅+ Détermination des différents rôles
-        ⋅⋅+ Répartition des différentes tâches pour chacun dans la semaine à suivre
+        ⋅⋅* Détermination des différents rôles
+        ⋅⋅* Répartition des différentes tâches pour chacun dans la semaine à suivre
         
  + BEAUREPAIRE Louis - 27/02
  
-        ⋅⋅+ Mise en page et écriture du cahier des charges
+        ⋅⋅* Mise en page et écriture du cahier des charges
