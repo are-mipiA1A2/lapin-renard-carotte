@@ -57,7 +57,7 @@
 
  + Idée n°3 : une spatialisation des agents
       
-      ⋅⋅⋅Cela permet d'avoir une représentation plus fidèle de la réalité par la suite, i.e. le rendu final sera probablement plus lisible et compréhensible. Cela implique cependant l'ajout de nouveaux paramètres.⋅⋅
+ ⋅⋅⋅Cela permet d'avoir une représentation plus fidèle de la réalité par la suite, i.e. le rendu final sera probablement plus lisible et compréhensible. Cela implique cependant l'ajout de nouveaux paramètres.⋅⋅
  
  + Idée n°4 : Ø
  
