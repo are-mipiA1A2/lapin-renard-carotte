@@ -5,7 +5,7 @@
 - 30% de morts tous les ans  
 
 ### Relatif à la fécondité :
-- maturité sexuelle : dès 9-12 mois 
+- maturité sexuelle : dès 4 mois 
 - gestation 29 à 35 jours 
 - période d'accouplements de 4 à 6 jours tous les 10 jours 
 - 4 à 12 lapereaux par portée 
