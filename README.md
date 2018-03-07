@@ -12,7 +12,7 @@ Modélisation d'un système Proie / Prédateur
 
 
 
-# Accès au cahier des charges : [lien](https://github.com/are-mipiA1A2/lapin-renard-carotte/blob/master/cahier-des-charges.md)
+### * Accès au cahier des charges : [lien](https://github.com/are-mipiA1A2/lapin-renard-carotte/blob/master/cahier-des-charges.md)
 
 
-# Accès aux données : [lien](https://github.com/are-mipiA1A2/lapin-renard-carotte/blob/master/data.md)
+### * Accès aux données : [lien](https://github.com/are-mipiA1A2/lapin-renard-carotte/blob/master/data.md)
