@@ -47,7 +47,7 @@
     
  ### Réflexions sur la suite du codage :
 
-  - pour que moyenne fécondité > 0.5 : fécondité random entre 0.1 et 0.2 pour chaqque renard (afin d'avoir assez de 
+  - pour que moyenne fécondité > 0.5 : fécondité random entre 0.1 et 0.2 pour chaque renard (afin d'avoir assez de 
    renards qui   se reproduisent) 
   
   - nombre de renardeaux par case à l'issu d'une interaction renard-renard : si moyenne fécondité deux renards < 0.5 alors 
