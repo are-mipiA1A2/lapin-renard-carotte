@@ -34,3 +34,14 @@
 ### Espace géographique : 
 - territoire de chasses : 150 à 350 hectares 
 - vitesse de déplacement : 6 à 13 km/h (sprint : 60 km/h)
+
+### Ebauche de fonctions :
+- fonction interaction lapin-renard : 
+
+    On évalue la probabilité pour le renard d'attrapper sa proie à 1/5 à laquelle on ajoute une valeur d'habileté du renard 
+    variant de -1/10 à +1/10 . On notera cette habileté mu 
+ 
+    On évalue la capacité du lapin à s'échapper à 0 plus ou moins 1/10 (noté epsilon)
+
+    Probabilité de réussite de la chasse : **1/5+mu-epsilon** 
+ 
