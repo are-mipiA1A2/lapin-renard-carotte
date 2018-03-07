@@ -96,6 +96,17 @@
     * analyse approfondie du sujet
     * ébauche du modèle
     * mise en pseudo-code de la boucle principale
+ 
+ + BEAUREPAIRE Louis - 07/03
+    
+    * formalisation des variables
+    * mise en code de l'initialisation
+    * mise en code des fonctions mineures
+    
+ + PRAT Adélie, GHAZI Virgile - 07/03
+ 
+    * mise en code des sous-fonctions mineures
+    * formalisation des interactions
     
     
   
