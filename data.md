@@ -46,9 +46,12 @@
     Probabilité de réussite de la chasse : **1/5+mu-epsilon** 
     
  ### Réflexions sur la suite du codage :
-    
- - nombre de renardeaux par case à l'issu d'une interaction renard-renard : si moyenne fécondité deux renards < 0.5 alors 
+
+  - pour que moyenne fécondité > 0.5 : fécondité random entre 0.1 et 0.2 (afin d'avoir assez de renards qui se reproduisent) 
+  
+  - nombre de renardeaux par case à l'issu d'une interaction renard-renard : si moyenne fécondité deux renards < 0.5 alors 
    pas de portée sinon nombre aléatoire de petits renards entre 4 et 5 
    
  - reproduction des lapins : ajouter une variable de gestation booléenne (femelle en gestation True ou False) avec décompte de 
    30 jours 
+   
