@@ -44,4 +44,8 @@
     On évalue la capacité du lapin à s'échapper à 0 plus ou moins 1/10 (noté epsilon)
 
     Probabilité de réussite de la chasse : **1/5+mu-epsilon** 
- 
+    
+ - nombre de renardeaux par case à l'issu d'une interaction renard-renard : si moyenne fécondité deux renards < 0.5 alors 
+   pas de portée sinon nombre aléatoire de petits renards entre 4 et 5 
+   
+ - 
