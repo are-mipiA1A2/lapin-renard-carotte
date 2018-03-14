@@ -111,8 +111,11 @@
  + Prat Adélie, Virgile Ghazi - 14/03
     
     * Visualisation de simulation 
-   
     * Ebauche du codage de l'animation (problème à résoudre) 
     
+ + BEAUREPAIRE Louis, DELATTE Thomas - 14/03
     
+    * Refonte du code
+    * Simplification du code
+    * Optimisation
   
