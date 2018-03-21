@@ -119,3 +119,6 @@
     * Simplification du code
     * Optimisation
   
+  + GHAZI Virgile, PRAT Adélie - 21/03
+  
+    * Initiation au fonctionnement de l'animation
