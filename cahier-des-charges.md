@@ -122,3 +122,11 @@
   + GHAZI Virgile, PRAT Adélie - 21/03
   
     * Initiation au fonctionnement de l'animation
+    
+  + BEAUREPAIRE Louis, DELATTE Thomas - 21/03
+  
+    * Code
+    
+  + BEAUREPAIRE Louis - 25/03
+    
+    * finition du codage des mouvements et des interactions
