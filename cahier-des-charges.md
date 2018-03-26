@@ -129,4 +129,9 @@
     
   + BEAUREPAIRE Louis - 25/03
     
-    * finition du codage des mouvements et des interactions
+    * finition du codage des mouvements et des interactions des renards
+    
+  + BEAUREPAIRE Louis - 26/03
+  
+    * finition du codage des mouvements des lapins
+
