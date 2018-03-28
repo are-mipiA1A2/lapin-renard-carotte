@@ -137,5 +137,5 @@
     
   + PRAT Adélie, GHAZI Virgile - 28/03 
   
-    * codage de l'animation 
+    * Codage de l'animation 
 
