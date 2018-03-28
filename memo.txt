@@ -2,7 +2,7 @@ Questions :
 
 	Quel age doit avoir un lapin pour pouvoir s'accoupler ?
 		maturite_sexuelle_lapin = ?
-	Combien de temps une lapine porte sa portée de lapinous ?
+	Combien de temps une lapine porte sa portÃ©e de lapinous ?
 		temps_gestation_lapin = ?
 
 
@@ -10,8 +10,8 @@ Questions :
 
 A faire :
 
-	Finir le programme pour afficher les évolutions pour la date limite de 03/04 23:59, ça risque d'être super relou mais il nous le faut vraiment.
-	Je détaille ici les informations et leur forme :
+	Finir le programme pour afficher les Ã©volutions pour la date limite de 03/04 23:59, Ã§a risque d'Ãªtre super relou mais il nous le faut vraiment.
+	Je dÃ©taille ici les informations et leur forme :
 
 	Un dictionnaire de la forme suivante :
 	Dict[str:tuple(tuple)]
@@ -38,21 +38,28 @@ A faire :
 
 
 Rappel :
-	Pour appeller un agent spécifique à une clé dans un dico :
+	Pour appeller un agent spÃ©cifique Ã  une clÃ© dans un dico :
 		agents["uuid=xxx"]
-	Renvoie l'agent correspondant à cet uuid
+	Renvoie l'agent correspondant Ã  cet uuid
 
 	Pour unpack un tuple(type_agent,(agent)) :
 		type_agent, agent = tuple(type_agent,(agent))
-	Crée les variables type_agent et agent et leur attribue respectivement les valeurs contenues dans le tuple
+	CrÃ©e les variables type_agent et agent et leur attribue respectivement les valeurs contenues dans le tuple
 	Ici tuple(type_agent,(agent)) correspond au x extrait plus haut dans le dico
 
-	Pour ne pas créer une variable en unpackant un tuple :
+	Pour ne pas crÃ©er une variable en unpackant un tuple :
 		type_agent,_ = tuple(type_agent,(agent))
-	Ne crée pas de variables contenant la deuxième valeur du tuple
-	Normalement pour commencer y'aura pas besoin du contenu du (agent)
+	Ne crÃ©e pas de variables contenant la deuxiÃ¨me valeur du tuple
+	Le contenu de (agent) changera en fonction du type : lapin = renard =/= carotte
+	Le tuple (agent) contient un tuple (position). Pour l'obtenir :
+	if type_agent == "renard" or type_agent == "lapin":
+		_,_,_,_,_,_,_,(position) = agent
+		ligne, colonne = position
+	elif type_agent == "carotte":
+		_,(position) = agent
+		ligne, colonne = position
 
 	Pour choisir une valeur dans une matrice :
 		i = environnement[ligne, colonne]
-	Attribue à i la valeur contenue à la case de coordonnées précisées sur le modèle (y,x) et non pas (x,y)
+	Attribue Ã  i la valeur contenue Ã  la case de coordonnÃ©es prÃ©cisÃ©es sur le modÃ¨le (y,x) et non pas (x,y)
 
