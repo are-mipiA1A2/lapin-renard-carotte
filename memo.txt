@@ -63,3 +63,41 @@ Rappel :
 		i = environnement[ligne, colonne]
 	Attribue à i la valeur contenue à la case de coordonnées précisées sur le modèle (y,x) et non pas (x,y)
 
+
+
+np.set_printoptions(threshold=np.inf)
+
+def casse_du_code_du_travail():
+
+    matrice_renard = np.zeros((100,100))
+    matrice_lapin = np.zeros((100,100))
+    matrice_carotte = np.zeros((100,100))
+
+    cpt_ligne = 0
+    cpt_colonne = 0
+    cpt_renard = 0
+    cpt_lapin = 0
+    densite = 0
+
+    for a in environnement:
+        cpt_ligne += 1
+        for b in a:
+            cpt_colonne += 1
+            for c in b:
+                type_agent,agent = agents[c]
+                if type_agent == "lapin":
+                    cpt_lapin += 1
+                elif type_agent == "renard":
+                    cpt_renard += 1
+                elif type_agent == "carotte":
+                    densite,_ = agent
+                matrice_carotte[cpt_ligne-1, cpt_colonne-1] = densite
+                densite = 0
+            matrice_renard[cpt_ligne-1, cpt_colonne-1] = cpt_renard
+            matrice_lapin[cpt_ligne-1, cpt_colonne-1] = cpt_lapin            
+            cpt_lapin = 0
+            cpt_renard = 0
+        cpt_colonne = 0
+    return matrice_renard
+        
+print(casse_du_code_du_travail())
