@@ -108,7 +108,7 @@
     * mise en code des sous-fonctions mineures
     * formalisation des interactions
     
- + Prat Adélie, Virgile Ghazi - 14/03
+ + PRAT Adélie, GHAZI Virgile - 14/03
     
     * Visualisation de simulation 
     * Ebauche du codage de l'animation (problème à résoudre) 
@@ -134,4 +134,8 @@
   + BEAUREPAIRE Louis - 26/03
   
     * finition du codage des mouvements des lapins
+    
+  + PRAT Adélie, GHAZI Virgile - 28/03 
+  
+    * codage de l'animation 
 
