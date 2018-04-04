@@ -139,3 +139,7 @@
   
     * Codage de l'animation 
 
+  + PRAT Adélie, GHAZI Virgilou - 04/04
+  
+     * Rédaction du compte-rendu : annexe du projet écrit (présentation acteurs, paramètres, indicateurs et expériences menées )
+     
