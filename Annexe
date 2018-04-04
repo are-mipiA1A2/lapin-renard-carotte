@@ -1,0 +1,61 @@
+Compte rendu
+
+Agents:
+-Renards
+-Lapins
+-Carottes
+
+Attributs des agents
+-Renard:
+  -Sexe: bool fixe au cours du temps
+  -Efficacité: float compris entre 1/10 et 3/10 fixe au cours du temps
+  -Age: int compris entre 0 et 1825, croit au cours du temps
+  -Fécondité: float aléatoire entre 0;0.2;0.4;0.6;0.8 et 1.0 fixe au cours 
+  -Faim: float aléatoire entre 0 et 1, varie au cours du temps
+  -Excitation: float aléatoire entre 0 et 1, varie au cours du temps
+  -Position: tuple de (x:int,y:int), varie au cours du temps
+  -Gestation: tuple de bool et de deux int:
+                    Commence en (False,0,0) et varie au cours du temps
+-Lapin:
+  -Sexe: bool fixe au cours du temps
+  -Efficacité: float compris entre -1/10 et 1/10 fixe au cours du temps
+  -Fécondité: float aléatoire entre 0;0.2;0.4;0.6;0.8 et 1.0 fixe au cours
+  -Age: int compris entre 0 et 2555, croit au cours du temps
+  -Faim: float aléatoire entre 0 et 1, varie au cours du temps
+  -Excitation: float aléatoire entre 0 et 1, varie au cours du temps
+  -Gestation: tuple de bool et de deux int:
+                    Commence en (False,0,0) et varie au cours du temps
+-Carotte:
+  -Postion:tuple de (x:int,y:int), varie au cours du temps
+  -Densité: float entre 0 et +∞
+
+Paramètres:
+  -Taille matrice, int=100, fixe
+  -Range, int entre 0 et 4 fixe
+  -Gain de densité des carottes float,variable entre 0 et 1
+  -Esperance de vie lapin, int=2555, fixe
+  -Esperance de vie renard, int=1825, fixe
+  -Maturité sexuelle des lapins, int=124, fixe
+  -Maturité sexuelle des renards, int=310, fixe
+  -Temps de gestation renard= temps de gestation lapin= 55, fixe
+  -Seuil faim renard, float entre 0 et 1, variable
+  -Seuil excitation renard, float entre 0 et 1, variable
+  -Seuil faim lapin, float entre 0 et 1, variable
+  -Seuil excitation lapin, float entre 0 et 1, variable
+  -Nombre de renards, int variant entre 0 et 1000
+  -Nombre de lapins, int variant entre 0 et 2000
+  -Probabilité de présence de carotte, float compris entre 0 et 1,variable
+  -Gain d'excitation pour renard ou pour lapin, float compris entre 0 et 1, variable
+  -Gain de faim pour renard ou pour lapin, float compris entre 0 et 1 ,variable
+  
+Indicateurs:
+  -Population renard au cours du temps (graphe)
+  -Population lapin au cours du temps (graphe)
+  -Population carotte au cours du temps (graphe)
+  
+Liste des experiences:
+  -Faire varier les nombres de départ de lapins et de renards
+  -Faire varier les seuils d'excitation et de faim des lapins et renards
+  -Faire varier les gains d'excitation et de faim pour les lapins et les renards
+  -Faire varier le gain de densité et la probabilité de présence des carottes
+  
