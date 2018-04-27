@@ -1,8 +1,8 @@
-Trace écrite 
+# Trace écrite 
 
 Groupe composé de Louis Beaurepaire, Thomas Delatte, Virgile Ghazi et Adélie Prat 
 
-Présentation du projet 
+## Présentation du projet 
 
 Le projet sur lequel nous travaillons s'intitule "Equilibre d'un écosystème" . 
 
@@ -17,7 +17,7 @@ les variables pertinentes à prendre en compte pour modéliser efficacememt les 
 Enfin, à l'issu de sa réalisation, une dernière question constituera l'analyse critique de notre modèle :
 "Dans quelles mesures celui-ci est-il ressemblant à la réalité et quelles en sont les limites ?" . 
 
-Déterminations des Paramètres de notre modèle 
+## Déterminations des Paramètres de notre modèle 
 
 Dans le cadre du phénomène que l'on étudie, plusieurs paramètres entrent en jeu : 
 Nous pouvons mentionner en premier lieu la taille de la matrice qui pose le cadre de notre modélisation 
@@ -31,7 +31,7 @@ Enfin, les seuils d'excitation et de faim résultant de chacune de ces interacti
 Le choix de tels paramètres permettra à l'issue du projet la représentation de la population de chacune
 des espèces renard, lapins et carottes au cours de temps . 
 
-Fonctionnement du Programme 
+## Fonctionnement du Programme 
 
 Notre modèle s'effectue de la manière suivante :
 
@@ -64,7 +64,7 @@ On détermine ensuite les différentes interactions possibles :
   En ce qui concerne les lapins, les interactions se font de la même façon, seules les proies changent et deviennent les 
   carottes . On précise que la densité de carottes augmente au cours du temps  (?) . 
   
-  Mode de Vérification 
+## Mode de Vérification 
 
 Dans la dernière partie de notre projet nous seront chargés de valider notre modèle . Pour cela, nous nous appuierons sur 
 différentes études ayant été menées auparavant mais aussi les écrits portant sur les conséquences de l'introduction du lapin
@@ -73,19 +73,19 @@ notre travail en se penchant sur un modèle bien connu de rapport proie/prédate
 l’étude conduite par la Compagnie de la Baie de Hudson au 19e siècle sur une population de lynx et de lièvre), afin de  le 
 comparer au notre (par le biais des graphiques obtenus par exemple) .
 
-Liens Utiles : 
+## Liens Utiles : 
 
-	•	Conséquences introduction lapins écosystème australien (soulève l’incroyable capacité des lapins à se reproduire vite + gros impact sur végétaux et autres espèces)
+- Conséquences introduction lapins écosystème australien (soulève l’incroyable capacité des lapins à se reproduire vite + gros impact sur végétaux et autres espèces)
 https://www.futura-sciences.com/planete/dossiers/zoologie-especes-animales-invasives-1093/page/2/
 http://www.liberation.fr/sciences/1996/01/16/hecatombe-de-lapins-australiens-plus-de-dix-millions-sont-deja-morts-histoire-d-une-bavure-scientifi_160045
 http://www.linternaute.com/science/biologie/dossiers/06/0604-especes-invasives/lapin.shtml
 
-	•	Volterra-Lotka : 
+- Volterra-Lotka : 
 https://fr.wikipedia.org/wiki/Équations_de_prédation_de_Lotka-Volterra
 http://www.tangentex.com/LotkaVolterra.htm
 exposé déjà mené sur le sujet : https://www-fourier.ujf-grenoble.fr/~parisse/irem/proies_predateurs_diaporama.pdf
 
-	•	Explication du comportement proie/prédateur (appui pour vérification) - p.5, 6 et 16 
+- Explication du comportement proie/prédateur (appui pour vérification) - p.5, 6 et 16 
 https://www.aquaportail.com/definition-11184-relation-predateur-proie.html
 
 
