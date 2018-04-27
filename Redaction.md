@@ -35,7 +35,7 @@ des espèces renard, lapins et carottes au cours de temps .
 
 Notre modèle s'effectue de la manière suivante :
 
-Premièrement nos agents sont spatialisés sur une matrice de taille n=100 
+Premièrement nos agents sont spatialisés sur une matrice de taille n=100 .  
 On définit les variables pour chaque agent au sein de cette environnement avant de déterminer les fonctions 
 de déplacement .
 Tout d'abord, on met à jour les paramètres de chaque agent, renard et lapin pour chaque jour : les seuils
