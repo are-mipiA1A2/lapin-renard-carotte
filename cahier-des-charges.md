@@ -141,5 +141,9 @@
 
   + PRAT Adélie, GHAZI Virgilou - 04/04
   
-     * Rédaction du compte-rendu : annexe du projet écrit (présentation acteurs, paramètres, indicateurs et expériences menées )
+     * Rédaction annexe du projet écrit (présentation acteurs, paramètres, indicateurs et expériences menées )
+   
+  + PRAT Adélie - 27/04
+  
+    * Rédaction pour compte-rendu finale 
      
