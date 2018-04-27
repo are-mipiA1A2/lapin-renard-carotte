@@ -4,7 +4,7 @@ Groupe composé de Louis Beaurepaire, Thomas Delatte, Virgile Ghazi et Adélie P
 
 ## Présentation du projet 
 
-Le projet sur lequel nous travaillons s'intitule "Equilibre d'un écosystème" . 
+Le projet sur lequel nous travaillons s'intitule **"Equilibre d'un écosystème"** . 
 
 Il consiste en la modélisation interdépendante de deux populations : proies et prédateurs . 
 Plus particulièrement, on s'intéresse ici à l'évolution du nombre de renards et de lapins au sein 
@@ -12,22 +12,21 @@ d'un même milieu, l'objectif étant de déterminer si un état d'équilibre du 
 est possible et sous quelles conditions il est atteint . 
 
 Afin de répondre au mieux à cette problématique, plusieurs questions seront soulevées telles que 
-"Si un tel équilibre est possible alors pour quelles valeurs est-il obtenu ?" ou encore "Quelles sont 
-les variables pertinentes à prendre en compte pour modéliser efficacememt les interactions proies/prédateurs ?" .
+**"Si un tel équilibre est possible alors pour quelles valeurs est-il obtenu ?"** ou encore **"Quelles sont 
+les variables pertinentes à prendre en compte pour modéliser efficacememt les interactions proies/prédateurs ?"** .
 Enfin, à l'issu de sa réalisation, une dernière question constituera l'analyse critique de notre modèle :
-"Dans quelles mesures celui-ci est-il ressemblant à la réalité et quelles en sont les limites ?" . 
+**"Dans quelles mesures celui-ci est-il ressemblant à la réalité et quelles en sont les limites ?"** . 
 
 ## Déterminations des Paramètres de notre modèle 
 
 Dans le cadre du phénomène que l'on étudie, plusieurs paramètres entrent en jeu : 
-Nous pouvons mentionner en premier lieu la taille de la matrice qui pose le cadre de notre modélisation 
-et le nombre de renards et de lapins (variable) que nous y faisons intervenir .
-La probabilité de présence de carottes intervient aussi, comme représentation de l'accès à la nourriture
+Nous pouvons mentionner en premier lieu la **taille de la matrice** qui pose le cadre de notre modélisation 
+et le **nombre de renards et de lapins** (variable) que nous y faisons intervenir .
+La **probabilité de présence de carottes** intervient aussi, comme représentation de l'accès à la nourriture
 pour les lapins .
-On considère également l'espérance de vie, la maturité sexuelle ou encore le temps de gestation de chacune 
-des deux espècesainsi que l'efficacité/chance de réussite de la chasse du renard (sur la base de données 
-réelles ) . 
-Enfin, les seuils d'excitation et de faim résultant de chacune de ces interactions sont pris en compte .
+On considère également **l'espérance de vie**, la **maturité sexuelle** ou encore le **temps de gestation** 
+de chacune des deux espèces ainsi que l'**efficacité/chance de réussite** de la chasse du renard (sur la base de données 
+réelles ) . Enfin, les **seuils d'excitation et de faim** résultant de chacune de ces interactions sont pris en compte .
 Le choix de tels paramètres permettra à l'issue du projet la représentation de la population de chacune
 des espèces renard, lapins et carottes au cours de temps . 
 
@@ -67,11 +66,7 @@ On détermine ensuite les différentes interactions possibles :
 ## Mode de Vérification 
 
 Dans la dernière partie de notre projet nous seront chargés de valider notre modèle . Pour cela, nous nous appuierons sur 
-différentes études ayant été menées auparavant mais aussi les écrits portant sur les conséquences de l'introduction du lapin
-dans l'écosystème australien et notamment les données sur sa reproduction . En outre, on pourra ajouter un autre interêt à 
-notre travail en se penchant sur un modèle bien connu de rapport proie/prédateur, celui de Volterra-Lotka (s’appuyant sur 
-l’étude conduite par la Compagnie de la Baie de Hudson au 19e siècle sur une population de lynx et de lièvre), afin de  le 
-comparer au notre (par le biais des graphiques obtenus par exemple) .
+différentes **études sur les comportements proies/prédateurs** ayant été menées auparavant mais aussi les écrits portant sur les **conséquences de l'introduction du lapin dans l'écosystème australien** et notamment les données sur sa reproduction . En outre, on pourra ajouter un autre interêt à notre travail en se penchant sur un modèle bien connu de rapport proie/prédateur, celui de **Volterra-Lotka** (s’appuyant sur l’étude conduite par la Compagnie de la Baie de Hudson au 19e siècle sur une population de lynx et de lièvre), afin de le comparer au notre (par le biais des graphiques obtenus par exemple) .
 
 ## Liens Utiles : 
 
