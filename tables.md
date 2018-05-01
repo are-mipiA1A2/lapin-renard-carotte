@@ -54,7 +54,6 @@
 | Seuil excitation renard  | Float| [0 ; 1] | 0 |non |
 |Seul faim lapin | Float      |    [0 ; 1] | 0 |non |
 |Seuil excitation lapin | Float | [0 ; 1] | 0 |non |
-|Espérance de vie renards  | Int |∅| 1825 | oui |
 | Nombre de renard | Int | [0 ; 1000] | / | non |
 | Nombre de lapins | Int | [0 ; 2000] | / | non |
 | Probabilité de présence de carotte | Float | [0 ; 1] |/| non |
