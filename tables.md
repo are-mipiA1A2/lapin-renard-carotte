@@ -1,4 +1,4 @@
- Tableau attribut de l'agent renard
+ # Tableau attribut de l'agent renard
 
 
 | Nom       | Type          | Intervalle  |Valeur Initiale | Fixe |
@@ -12,7 +12,7 @@
 | Position | Tuple de (x:int,y:int) | / | / | oui |
 | Gestation | tuple de bool et de deux int | / |(False, 0, 0)| oui |
 
- Tableau attribut de l'agent lapin 
+ # Tableau attribut de l'agent lapin 
  
  
  
@@ -28,7 +28,7 @@
 | Gestation | tuple de bool et de deux int | / |(False, 0, 0)| oui |
 
 
-Tableau attribut de l'"agent" carotte 
+# Tableau attribut de l'"agent" carotte 
 
  
 | Nom       | Type          | Intervalle  |Valeur Initiale | Fixe |
@@ -37,7 +37,7 @@ Tableau attribut de l'"agent" carotte
 | Densité       | Float      | [0 ; +∞ ] | | oui |
 
  
- Tableaux des paramètres 
+ # Tableaux des paramètres 
  
  
 | Nom       | Type          | Intervalle  |Valeur Initiale | Fixe |
@@ -61,7 +61,7 @@ Tableau attribut de l'"agent" carotte
 | Gain d'excitation renard/lapin | Float | [0 ; 1] | / | non |
 | Gain de faim | Float | [0 ; 1] |/| non |
 
- Tableau Indicateurs 
+# Tableau Indicateurs 
 
 | Nom       | Type          | Intervalle/Ensemble de valeurs |
 | ------------- |:-------------:| -----:|
