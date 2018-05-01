@@ -5,12 +5,12 @@
 | ------------- |:-------------:| -----:|:-----:|:-------:|
 | Sexe      | Bool | / | True ou False   | oui |
 | Efficacité      | Float      | [1/10 ; 3/10] | entre 1/10 et 3/10  |oui  |
-| Age | Int      |    [0 ; 1825] | 0 |non   |
-|Fécondité | Float | [0 ; 1] | entre 0 et 1 |oui |
-|Faim | Float | [0 ; 1] | 0 | non |
-| Excitation | Float | [0 ; 1] | 0 | oui |
-| Position | Tuple de (x:int,y:int) | / | / | oui |
-| Gestation | tuple de bool et de deux int | / |(False, 0, 0)| oui |
+| Age | Int      |    [0 ; 1825] | entre 0 et 1825 |non   |
+|Fécondité | Float | [0.2 ; 1] | entre 0.2 et 1 |oui |
+|Faim | Float | [0 ; 1] | entre 0 et 1 | non |
+| Excitation | Float | [0 ; 1] | entre 0 et 1 | non |
+| Position | Tuple de (x:int,y:int) | / | / | non |
+| Gestation | tuple de bool et de deux int | / |(False, 0, 0)| non |
 
  ## Tableau Attribut de l'agent lapin 
  
@@ -20,12 +20,12 @@
 | ------------- |:-------------:| -----:|:-----:|:-------:|
 | Sexe      | Bool | / | True ou False   | oui |
 | Efficacité      | Float      | [-1/10 ; 1/10] | entre 1/10 et 3/10  |oui  |
-| Age | Int      |    [0 ; 2000] | 0 |non   |
-|Fécondité | Float | [0 ; 1] | entre 0 et 1 |oui |
-|Faim | Float | [0 ; 1] | 0 | non |
-| Excitation | Float | [0 ; 1] | 0 | oui |
-| Position | Tuple de (x:int,y:int) | / | / | oui |
-| Gestation | tuple de bool et de deux int | / |(False, 0, 0)| oui |
+| Age | Int      |    [0 ; 2000] | entre 0 et 2000 |non   |
+|Fécondité | Float | [0.2 ; 1] | entre 0.2 et 1 |oui |
+|Faim | Float | [0 ; 1] | entre 0 et 1 | non |
+| Excitation | Float | [0 ; 1] | entre 0 et 1 | non |
+| Position | Tuple de (x:int,y:int) | / | / | non |
+| Gestation | tuple de bool et de deux int | / |(False, 0, 0)| non |
 
 
 ## Tableau Attribut de l' "agent" carotte 
@@ -34,7 +34,7 @@
 | Nom       | Type          | Intervalle  |Valeur Initiale | Fixe |
 | ------------- |:-------------:| -----:|:-----:|:-------:|
 | Position      |Tuple de (x:int,y:int)| / | / |oui |
-| Densité       | Float      | [0 ; +∞ ] | | oui |
+| Densité       | Float      | [0 ; 1] | | non |
 
  
  ## Tableaux des Paramètres 
@@ -65,8 +65,8 @@
 
 | Nom       | Type          | Intervalle/Ensemble de valeurs |
 | ------------- |:-------------:| -----:|
-| Population Renard | Int |[0 ; 1000] |
-| Population Lapin | Int| [0 ; 2000] |
+| Population Renard | Int | N |
+| Population Lapin | Int| N |
 | Densité Carotte | Float | [0 ; 1] |
 
 
