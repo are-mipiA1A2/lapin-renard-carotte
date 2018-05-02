@@ -16,3 +16,9 @@ Modélisation d'un système Proie / Prédateur
 
 
 * ### Accès aux données : [lien](https://github.com/are-mipiA1A2/lapin-renard-carotte/blob/master/data.md)
+
+
+* ### Vidéo des renards : [lien](https://raw.githubusercontent.com/are-mipiA1A2/lapin-renard-carotte/master/video-1525209402.mp4)
+
+
+* ### Vidéo des lapins : [lien](https://raw.githubusercontent.com/are-mipiA1A2/lapin-renard-carotte/master/video-1525209403.mp4)
