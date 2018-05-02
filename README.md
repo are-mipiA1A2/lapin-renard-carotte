@@ -1,10 +1,10 @@
 # Modèle proie/prédateur - Renards Lapins Carottes
 
-BEAUREPAIRE Louis
-DELATTE Thomas
-GHAZI Virgile
-PRAT Adélie
+BEAUREPAIRE Louis - DELATTE Thomas - GHAZI Virgile - PRAT Adélie
 
+#### Avertissement
+
+Le fichier de code principal a besoin de l'importation de bibliothèques via pip pour fonctionner de manière optimale. De plus certaines fonctions et variables présentes dans le code ne sont pas utilisées directement dans le fichier. La raison est évoquée dans le dossier ; les fonctions et résultats étaient encore en écriture et optimisation lors de la remise du fichier. Ainsi, afin de garantir l'exécution sans heurts du code nous avons décidé de ne pas les soumettre.
 
 Modélisation d'un système Proie / Prédateur
 
